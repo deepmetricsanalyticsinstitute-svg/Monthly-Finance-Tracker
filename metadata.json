@@ -1,0 +1,5 @@
+{
+  "name": "Smart Monthly Finance",
+  "description": "A simple yet powerful monthly finance tracker with income/expense management, local storage persistence, visual analytics, and AI-powered financial insights.",
+  "requestFramePermissions": []
+}
